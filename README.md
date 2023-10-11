@@ -1,4 +1,5 @@
 # Excercise 0.4: New note diagram
+```mermaid
 graph TD
   subgraph User
     A[Enter Text]          %% User entering text into a text field
@@ -20,3 +21,4 @@ graph TD
   C -->|New Note Data| E  %% New note data is processed by the server
   E -->|Note Saved| F    %% The server saves the note
   F -->|Confirmation| D  %% The browser confirms the note has been saved
+```
