@@ -1,7 +1,5 @@
 # Excercise 0.4: New note diagram
 ```mermaid
-# Excercise 0.4: New note diagram
-```mermaid
 graph TD
   subgraph User
     A[Enter Text]          %% User entering text into a text field
