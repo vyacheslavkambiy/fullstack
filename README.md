@@ -24,5 +24,3 @@ graph TD
   E -->|Note Saved| F    %% The server saves the note
   F -->|Confirmation| D  %% The browser confirms the note has been saved
 ```
-
-```
